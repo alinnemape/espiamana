@@ -16,7 +16,6 @@ site/
 ├── contato.html           → Fale com a Gente
 ├── style.css               → todo o visual do site (cores, fontes, layout)
 ├── script.js                → só o menu do celular
-└── imagens/                  → coloque suas fotos e imagens aqui
 ```
 
 Todas as páginas puxam o mesmo `style.css`, então qualquer mudança de cor ou fonte que você fizer nesse arquivo muda o site inteiro de uma vez.
